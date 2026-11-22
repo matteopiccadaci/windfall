@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Windfall</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 22 Nov 2026 16:16:28 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Windfall 0.1: l'edizione di Natale</h2>
+<ul>
+  <li>Neve sopra le finestre, che si posa sui bordi e sul Dock.</li>
+  <li>Albero da decorare e pupazzo di neve.</li>
+  <li>Slider dell'intensità, da niente a bufera.</li>
+</ul>
+]]></description>
+            <enclosure url="https://matteopiccadaci.github.io/windfall/aggiornamenti/Windfall-0.1.zip" length="2040729" type="application/octet-stream" sparkle:edSignature="/pSKt4kYV1QQWJa9YTeHNZvnAjQy692RaGbjUamYVgtb0c1Sd5Dt+GzfIexpoz3Mu/XZlAXiisJSLDBf+UmIAw=="/>
+        </item>
+    </channel>
+</rss>
