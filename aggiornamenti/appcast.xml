@@ -3,6 +3,26 @@
     <channel>
         <title>Windfall</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Sun, 22 Nov 2026 17:09:07 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Windfall 0.1.2: arrivano i personaggi</h2>
+<ul>
+  <li>Babbo Natale attraversa il cielo con la slitta, fino a Natale. A volte lascia un pacchetto: cliccalo!</li>
+  <li>Lo Yeti passeggia sul Dock e abbraccia i pupazzi di neve. Se lo clicchi, scappa.</li>
+  <li>Regala a un amico: dal fiocco ❄︎ scegli "Regala a un amico…" e mandagli il link su WhatsApp. Il trenino gli porta il regalo sul desktop.</li>
+</ul>
+]]></description>
+            <enclosure url="https://matteopiccadaci.github.io/windfall/aggiornamenti/Windfall-0.1.2.zip" length="2368162" type="application/octet-stream" sparkle:edSignature="u66gdsaqOELUwCD01HeupEhLdA8ndPg8G3pyA30CDc7i3ekdnS5ZiXkyPcUKN17eTlaClSAfEIEpEMxEi2QoBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://matteopiccadaci.github.io/windfall/aggiornamenti/Windfall3-2.delta" sparkle:deltaFrom="2" length="373150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qmEJTmGXK5TMDWVgLcWTeVy769MAWhSfytKxWqaVV/Li+SpVwXQVLgoGYAzH6TiH7Ov33V3RC9wnnOzdYpQMDw=="/>
+                <enclosure url="https://matteopiccadaci.github.io/windfall/aggiornamenti/Windfall3-1.delta" sparkle:deltaFrom="1" length="402674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LTWIZG28moCQQ2oaSyG/WBNMU0cnsExkoClxZvNJgprHUnjYKg+xBiYJuyiLhKzyveD77LCQP7hVwiJpGqI1DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Sun, 22 Nov 2026 16:54:21 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
